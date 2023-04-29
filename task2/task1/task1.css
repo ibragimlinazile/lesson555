@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+        padding: 0;
+}
+#all{
+    width: 1853px;
+    height: 2110px;
+    background-color: white;
+}
+#kitab{
+    color: #109E97;
+    font-size: 49px;
+}
+#a{
+    width: 386px;
+    height: 61px;
+    margin: 34px 774px;
+    
+}
+#b{
+    margin-top: 35px ;
+    margin-left: 8px;
+    margin-right: 23px;
+    border: #000000 solid 2px;
+}
+#n1{
+    padding-left: 8px;
+    padding-top: 20px;
+    font-size: 23px;
+    padding-bottom : 20px;
+}
+#p1{
+    padding-left:8px ;
+    font-size: 25px;
+    color:#008000;
+    display: inline;
+}
+#p2{
+    font-size: 15px;
+    color:#FF0000;
+}
+#image1{
+    display: block;
+    margin-left: 8px;
+    margin-top: 18px;
+    margin-bottom: 4px;
+    width: 300px;
+    height: 496px;
+}
+#black{
+    width: 1822px;
+    height: 256px;
+    background-color: #000000;
+    margin-left: 8px;
+}
+#blackk{
+    color: #FFFFFF;
+    padding:21px 0px 42px 43px ;
+    text-align: center;
+    font-size: 21px;
+    padding-right: 20px;
+}
+#qm{
+    font-size: 20px;
+    text-align: center;
+    color:#FFFFFF;
+    padding-top: 44px;
+}
+#hr2{
+    margin-top: 8px;
+    border: #000000 solid 2px;
+    margin-left: 8px;
+    margin-right: 23px;
+}
+#xususiyyetler{
+    padding-left: 8px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    font-size: 16px;
+}
+table{
+    width: 1822px;
+    height: 194px;
+    margin-left: 8px;
+}
+td{
+    font-size: 15px;
+}
+#hr3{
+    margin-top: 44px;
+    border: #000000 solid 2px;
+    margin-left: 8px;
+    margin-right: 23px;
+}
+#image2{
+    margin-left: 8px;
+    margin-top: 66px;
+    display: inline;
+    width: 300px;
+    height: 496px;
+}
+#image3{
+    margin-left: 1221px;
+    width: 300px;
+    height: 496px;
+    display: inline-block;
+}
+#box1{
+    position: absolute;
+    top: 1350px;
+    width: 302px;
+    height: 506px;
+    text-align: center;
+    left: 776px;
+}
+#serh{
+    font-size: 24px;
+}
+#text1 {
+    width: 185px;
+height: 21px;
+}
+#date{
+width: 133px;
+height: 24px;
+}
+#dil{
+    width: 93px;
+height: 19px;
+}
+#area{
+    margin:auto;
+    width: 261px;
+    height: 156px;
+    border: 1px solid #767676;
+    }
+a{
+    padding-left: 48px;
+    padding-top: 34px;
+    font-size: 14px;
+}
+#hr4{
+    margin-left: 8px;
+    margin-top: 44px;
+    margin-right: 23px;
+    border: #000000 solid 2px;
+}
+#alt{
+    width: 1822px;
+height: 86px;
+background-color:#109E97;
+color:#FFFFFF;
+text-align: center;
+margin-left: 8px;
+margin-top: 8px;
+font-size: 14px;
+}
+#altyazi{
+    padding-top: 34px;
+}
